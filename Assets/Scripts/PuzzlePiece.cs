@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody))]
-public class NewBehaviourScript : MonoBehaviour
+public class PuzzlePiece : MonoBehaviour
 {
     private SnapGrid grid;
     private Rigidbody rb;
